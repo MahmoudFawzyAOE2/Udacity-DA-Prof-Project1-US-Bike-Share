@@ -1,10 +1,11 @@
 # Udacity-Program-1-US-Bike-Share
 
-this project is a part of Udacity Data Analysis Professional Nanodegree Program.
-it's the first project out of 2 projects.
-you have to unzip "udacity bike data.zip" file and all 4 files (1 [.py] and 3 [.csv]) are in the same folder 
+this project is a part of Udacity Data Analysis Professional Nanodegree Program.    
+it's the first project out of 2 projects.     
+you have to unzip "udacity bike data.zip" file and all 4 files (1 [.py] and 3 [.csv]) are in the same folder    
+the code is made with Python Programming laguage and using Numpy & Pandas
 
-In this project, we will explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+In this project, we will explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington    
 the data is provided by Motivate, a bike share system provider for many major cities in the United States
 
 # The Datasets
