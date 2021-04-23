@@ -10,16 +10,16 @@ the data is provided by Motivate, a bike share system provider for many major ci
 # The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
-Start Time (e.g., 2017-01-01 00:07:57)
-End Time (e.g., 2017-01-01 00:20:53)
-Trip Duration (in seconds - e.g., 776)
-Start Station (e.g., Broadway & Barry Ave)
-End Station (e.g., Sedgwick St & North Ave)
-User Type (Subscriber or Customer)
+Start Time (e.g., 2017-01-01 00:07:57)    
+End Time (e.g., 2017-01-01 00:20:53)    
+Trip Duration (in seconds - e.g., 776)    
+Start Station (e.g., Broadway & Barry Ave)    
+End Station (e.g., Sedgwick St & North Ave)   
+User Type (Subscriber or Customer)    
 
-The Chicago and New York City files also have the following two columns:
-Gender
-Birth Year
+The Chicago and New York City files also have the following two columns:    
+Gender      
+Birth Year    
 
 We'll ask the user to enter the city (must) , month and day of week (optional) to copmute the statistics.
 
