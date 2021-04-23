@@ -28,8 +28,11 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
   -most common month
+
   -most common day of week
+
   -most common hour of day
+
 
 
 #2 Popular stations and trip
